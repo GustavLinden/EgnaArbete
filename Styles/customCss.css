@@ -9,4 +9,13 @@ margin-top:0;
 position: fixed;
 height: 100px;
 background-color: rgb(107, 80, 80);
-};
+}
+.wrapper{
+    display: grid;
+    border: solid 1px hidden;
+}
+.section {
+ border: 1px red solid;
+ height: 180px;
+ width: 250px;
+}
